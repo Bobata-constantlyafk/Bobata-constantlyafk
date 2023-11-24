@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bobata-constantlyafk
+- 👋 Hi, I’m Boyan
 - 👀 I’m interested in JavaScript, Web-dev in general and Web3!
 - 🌱 I’m currently working on an appointment scheduler application for an ophthalmologist
 - 📫 Send me a message if you want to colaborate.
